@@ -1,0 +1,404 @@
+the:
+	hall , 0.011
+	kitchen , 0.022
+	box , 0.011
+	left , 0.011
+	guy , 0.011
+	stove , 0.022
+	plates , 0.011
+	living , 0.101
+	counter , 0.011
+	table , 0.079
+	right , 0.011
+	mug , 0.045
+	bed , 0.034
+	white , 0.011
+	closet , 0.022
+	cushion , 0.011
+	rag , 0.011
+	coffee , 0.011
+	phone , 0.101
+	book , 0.079
+	soap , 0.011
+	mobile , 0.034
+	cigarettes , 0.011
+	blue , 0.011
+	bottle , 0.101
+	dining , 0.124
+	television , 0.034
+	bathroom , 0.045
+---
+it:
+	to , 1.0
+---
+turn:
+	on , 1.0
+---
+drop:
+	the , 1.0
+---
+slowly:
+	to , 0.2
+	!end! , 0.8
+---
+check:
+	if , 1.0
+---
+wine:
+	in , 1.0
+---
+with:
+	the , 1.0
+---
+mug:
+	to , 0.75
+	on , 0.25
+---
+a:
+	bottle , 0.5
+	pillow , 0.5
+---
+to:
+	dining , 0.027
+	living , 0.027
+	the , 0.946
+---
+pillow:
+	in , 0.5
+	!end! , 0.5
+---
+clean:
+	the , 1.0
+---
+closet:
+	of , 0.5
+	in , 0.5
+---
+could:
+	you , 1.0
+---
+console:
+	!end! , 1.0
+---
+towards:
+	the , 1.0
+---
+coffee:
+	is , 1.0
+---
+go:
+	to , 0.762
+	into , 0.095
+	find , 0.048
+	near , 0.048
+	get , 0.048
+---
+soap:
+	in , 1.0
+---
+of:
+	wine , 0.25
+	the , 0.75
+---
+please:
+	walk , 0.077
+	get , 0.077
+	!end! , 0.077
+	find , 0.154
+	take , 0.154
+	follow , 0.154
+	check , 0.077
+	put , 0.154
+	move , 0.077
+---
+into:
+	the , 1.0
+---
+bathroom:
+	take , 0.1
+	and , 0.1
+	!end! , 0.8
+---
+hall:
+	and , 1.0
+---
+box:
+	on , 1.0
+---
+coat:
+	in , 1.0
+---
+find:
+	a , 0.053
+	vittorio , 0.053
+	my , 0.105
+	the , 0.789
+---
+leave:
+	the , 1.0
+---
+couch:
+	!end! , 1.0
+---
+handbag:
+	in , 1.0
+---
+near:
+	the , 1.0
+---
+if:
+	the , 1.0
+---
+person:
+	and , 1.0
+---
+in:
+	my , 0.034
+	the , 0.966
+---
+hat:
+	on , 1.0
+---
+studio:
+	!end! , 1.0
+---
+room:
+	and , 0.045
+	!end! , 0.909
+	with , 0.045
+---
+carry:
+	the , 1.0
+---
+rag:
+	go , 1.0
+---
+book:
+	in , 0.3
+	!end! , 0.2
+	to , 0.3
+	on , 0.2
+---
+bedroom:
+	!end! , 1.0
+---
+ready:
+	!end! , 1.0
+---
+shower:
+	!end! , 1.0
+---
+!start!:
+	carry , 0.01
+	follow , 0.042
+	reach , 0.01
+	find , 0.167
+	get , 0.01
+	drop , 0.01
+	bring , 0.104
+	hang , 0.01
+	leave , 0.01
+	search , 0.031
+	grab , 0.01
+	go , 0.208
+	could , 0.021
+	come , 0.01
+	please , 0.115
+	take , 0.083
+	move , 0.021
+	activate , 0.021
+	look , 0.052
+	put , 0.052
+---
+address:
+	book , 1.0
+---
+bring:
+	me , 0.091
+	the , 0.909
+---
+take:
+	it , 0.083
+	the , 0.917
+---
+lounge:
+	!end! , 1.0
+---
+for:
+	a , 0.125
+	my , 0.375
+	the , 0.5
+---
+television:
+	in , 0.4
+	!end! , 0.4
+	at , 0.2
+---
+you:
+	bring , 0.5
+	please , 0.5
+---
+kitchen:
+	!end! , 1.0
+---
+left:
+	of , 1.0
+---
+stove:
+	in , 0.667
+	!end! , 0.333
+---
+hang:
+	my , 1.0
+---
+plates:
+	on , 1.0
+---
+counter:
+	on , 1.0
+---
+grab:
+	the , 1.0
+---
+and:
+	take , 0.2
+	do , 0.2
+	clean , 0.2
+	turn , 0.2
+	the , 0.2
+---
+mirror:
+	!end! , 1.0
+---
+bed:
+	in , 0.5
+	!end! , 0.5
+---
+look:
+	for , 1.0
+---
+walk:
+	slowly , 1.0
+---
+phone:
+	in , 0.308
+	!end! , 0.231
+	and , 0.077
+	on , 0.077
+	to , 0.308
+---
+desktop:
+	!end! , 1.0
+---
+on:
+	the , 1.0
+---
+come:
+	to , 1.0
+---
+cigarettes:
+	near , 1.0
+---
+that:
+	person , 1.0
+---
+martina:
+	from , 1.0
+---
+cushion:
+	from , 1.0
+---
+move:
+	towards , 1.0
+---
+table:
+	in , 0.778
+	!end! , 0.222
+---
+reach:
+	martina , 1.0
+---
+at:
+	the , 1.0
+---
+guy:
+	in , 1.0
+---
+follow:
+	me , 0.333
+	the , 0.167
+	that , 0.167
+	john , 0.167
+	mark , 0.167
+---
+activate:
+	the , 1.0
+---
+put:
+	the , 1.0
+---
+living:
+	room , 1.0
+---
+from:
+	the , 1.0
+---
+right:
+	of , 0.5
+	!end! , 0.5
+---
+fridge:
+	!end! , 1.0
+---
+sink:
+	!end! , 1.0
+---
+vittorio:
+	's , 1.0
+---
+do:
+	it , 1.0
+---
+dining:
+	room , 1.0
+---
+mobile:
+	to , 0.667
+	into , 0.333
+---
+get:
+	the , 1.0
+---
+search:
+	for , 1.0
+---
+my:
+	phone , 0.2
+	address , 0.2
+	hat , 0.2
+	handbag , 0.2
+	coat , 0.2
+---
+hoodie:
+	!end! , 1.0
+---
+tv:
+	!end! , 1.0
+---
+vase:
+	!end! , 1.0
+---
+bottle:
+	of , 0.071
+	in , 0.071
+	!end! , 0.286
+	on , 0.143
+	to , 0.429
+---
+me:
+	to , 0.5
+	the , 0.5
+---
+behind:
+	!end! , 1.0
+---
